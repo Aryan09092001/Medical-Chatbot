@@ -212,13 +212,6 @@ Medical-Chatbot/
 └── README.md
 ```
 
-
----
-
-## 📜 License
-
-This project is open source. See `LICENSE` for details.
-
 ---
 
 ## 👤 Author
