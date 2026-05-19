@@ -5,6 +5,8 @@
 An end-to-end medical question-answering chatbot built using **Retrieval-Augmented Generation (RAG)**. Users can ask medical-related questions and receive informed responses backed by a vectorized medical knowledge base.
 
 ---
+![Medical Chatbot Demo](medical%20chatbot.png)
+---
 
 ## 🚀 Project Overview
 
